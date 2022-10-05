@@ -1,0 +1,5 @@
+enum UnitTypes
+{
+    Metric,
+    Imperial
+}
