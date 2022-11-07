@@ -1,4 +1,4 @@
-namespace Csharp_Ass3
+namespace PartyOrganizer
 {
     internal static class Program
     {
